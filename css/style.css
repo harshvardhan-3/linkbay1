@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  margin-left: 0;
+  background-color: black;
+}
+
+.firstpageheading {
+  text-align: center;
+  font-size: 900%;
+}
+
+.firstpageheadinghh3 {
+  text-align: center;
+}
+
+td {
+  width: 183px;
+  text-align: center;
+  padding-bottom: 44px;
+}
+
+hr {
+  border-color: lightyellow;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 9px;
+  width: 6%;
+}
+
+h1 {
+  margin: 0;
+  background-color: lightyellow;
+  color: black;
+  font-size: 50px;
+}
+
+h3 {
+  color: white;
+  font-size: 31px;
+}
+
+li {
+  color: white;
+}
+
+p {
+  color: White;
+}
+
+label {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  line-height: 2;
+  margin: 5px 10px;
+}
+
+a:hover {
+  color: #818181;
+}
+
+.about {
+  text-align: center;
+}
+
+.Hindu{left: auto;
+  margin-left: 25%;
+font-size: 200%;
+}
+
+.thankyou1{background-color: black;
+  color: lightyellow;
+  text-align: center;
+}
+
+.books{
+  text-align: center;
+}
+
+.spotify{
+   text-align: center;
+}
+
+.warning{
+  text-align: center;
+}
+
+.TELEGRAM{
+  text-align: center;
+}
